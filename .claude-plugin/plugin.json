@@ -1,0 +1,16 @@
+{
+  "name": "mrcll-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for product engineering. ui-state-matrix maps every UI state of a screen or flow into a state matrix and interactive design boards.",
+  "author": {
+    "name": "Marcello Oliveira",
+    "url": "https://mrcll.me"
+  },
+  "homepage": "https://marcello0liveira.github.io/skills/",
+  "repository": "https://github.com/marcello0liveira/skills",
+  "license": "MIT",
+  "keywords": ["frontend", "design", "ui-states", "error-states", "loading-states", "design-systems", "claude-design"],
+  "skills": [
+    "./skills/design/ui-state-matrix"
+  ]
+}

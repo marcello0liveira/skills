@@ -1,0 +1,17 @@
+{
+  "name": "mrcll",
+  "owner": {
+    "name": "Marcello Oliveira",
+    "url": "https://mrcll.me"
+  },
+  "description": "Marcello Oliveira's agent skills for product engineering, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "mrcll-skills",
+      "source": "./",
+      "description": "ui-state-matrix: every UI state of a screen or flow, mapped and clickable.",
+      "category": "design",
+      "keywords": ["frontend", "design", "ui-states", "claude-design"]
+    }
+  ]
+}
